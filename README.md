@@ -30,6 +30,3 @@ Ets **Alex**, un investigador paranormal que entra a la **Casa Thornwood** per t
    - **Final A**: Redempció (màxim)
    - **Final B**: Escapada
    - **Final C**: Atrapament (dolent)
-
-## 📁 **Estructura del Projecte**
-
